@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.abhyankarsharma.com/sitemap.xml
+Host: www.abhyankarsharma.com
