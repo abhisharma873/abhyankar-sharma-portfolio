@@ -250,9 +250,9 @@ function Experience() {
       tags: ['React', 'Node.js', 'JavaScript'],
     },
     {
-      when: 'Jun 2018 to Sep 2018', where: 'Remote, Meerut, India',
+      when: 'Aug 2020 – Jul 2021', where: 'Remote',
       role: 'Data Analyst Intern', co: 'Amorin',
-      desc: 'Analyzed datasets and built reporting to support business decisions during a summer internship, an early step into data driven problem solving.',
+      desc: 'Cleaned, organized, and validated datasets for analysis, supporting data collection and reporting workflows. Built reports and visualizations to surface trends and inform business decision-making.',
       tags: ['Data Analysis', 'Reporting'],
     },
   ]
